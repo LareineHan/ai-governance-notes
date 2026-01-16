@@ -1,2 +1,49 @@
-# ai-governance-notes
-Thinking about AI risk not just as a technical problem, but as a human one.
+# AI Tool Risk Inventory (Human-Centered Perspective)
+
+## Why this exists
+We find that lots of discussions about AI risk often focus on data.
+But many people are uneasy about AI for a different reason:
+the fear that systems without human context, ethics,
+or common sense may eventually cross boundaries we did not intend to cross.
+
+This small project looks at AI risk not only as a technical issue,
+but as a human one—centered on judgment, accountability, and oversight.
+
+---
+
+## What this inventory tries to ask
+Instead of asking only *what data is used*, this inventory asks:
+
+- Does this tool assist humans, or quietly replace human judgment?
+- Can a person easily question, override, or stop its output?
+- Does the system understand context, or only patterns?
+- When something goes wrong, is responsibility clearly defined?
+
+---
+
+## AI Tool Risk Inventory
+
+| AI Tool | Human Judgment Required | Risk of Overreach | Accountability | Notes |
+|-------|------------------------|------------------|---------------|------|
+| ChatGPT (Public) | Low | High | Unclear | Outputs can appear authoritative without context |
+| Copilot (Enterprise) | Medium | Medium | Organization | Governance exists, but user awareness is critical |
+| Grammarly | Medium | Low–Medium | User | Subtle influence on tone and intent |
+| Notion AI | Medium | Medium | Team / Organization | Shared environments amplify mistakes |
+| Custom AI Tools | Depends | Potentially High | Organization / Developer | Risk depends on governance, not model choice |
+
+---
+
+## Key takeaway
+AI risk is not only about data leakage.
+Often, the deeper concern is the absence of human judgment,
+ethical context, and clear responsibility.
+
+Governance matters because it defines
+where human responsibility begins—and where it must remain.
+
+---
+
+## Scope
+This is not a technical audit.
+It is a lightweight, independent thinking exercise
+intended to explore AI risk from a governance and human-centered perspective.
