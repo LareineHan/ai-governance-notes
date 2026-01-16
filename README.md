@@ -12,12 +12,12 @@ but as a human one—centered on judgment, accountability, and oversight.
 ---
 
 ## What this inventory tries to ask
-Instead of asking only *what data is used*, this inventory asks:
+Instead of asking only *what data is used*, I would ask the following:
 
-- Does this tool assist humans, or quietly replace human judgment?
+- Does this tool assist humans, or quietly replace human decisions?
 - Can a person easily question, override, or stop its output?
-- Does the system understand context, or only patterns?
-- When something goes wrong, is responsibility clearly defined?
+- Does the system read only patterns or understand context?
+- When something is off, who is accountable?
 
 ---
 
@@ -40,6 +40,11 @@ ethical context, and clear responsibility.
 
 Governance matters because it defines
 where human responsibility begins—and where it must remain.
+
+AI systems do not grow up or develop ethics the way humans do.
+What we often call “AI ethics” is largely a set of constraints, guidelines, and feedback mechanisms designed by humans.
+This makes human oversight and accountability essential, not optional.
+
 
 ---
 
